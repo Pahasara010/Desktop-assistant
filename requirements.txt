@@ -1,0 +1,7 @@
+pyautogui
+pyttsx3
+SpeechRecognition
+tensorflow  # If you have a compatible NVIDIA GPU and CUDA/cuDNN
+keras # Usually not needed separately; install with TensorFlow
+numpy
+psutil
